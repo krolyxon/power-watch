@@ -1,0 +1,7 @@
+[Unit]
+Description=Power Watch Telegram Notifier
+
+[Service]
+Type=oneshot
+ExecStart=%h/.local/bin/power-watch.sh
+Environment=PATH=/usr/bin:/bin
