@@ -6,7 +6,7 @@ Sends a Telegram message when your system switches between AC and battery, perfe
 
 ## Install (Configure before installation)
 ```bash
-git clone https://github.com/YOURNAME/power-watch.git
+git clone https://git.krolyxon.xyz/krolyxon/power-watch.git
 cd power-watch
 ./install.sh
 ```
